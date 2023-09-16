@@ -212,7 +212,7 @@ body {
     
     left: 50%;
     transform: translateX(-50%);
-    bottom: 0px;
+    bottom: 220px;
     color:rgba(255, 255, 255, 0.8);
     font-size: 10px;
 }
