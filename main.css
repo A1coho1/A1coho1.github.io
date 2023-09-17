@@ -253,9 +253,3 @@ a{
 	transform: translatey(0px);
 	animation: float 6s ease-in-out infinite;
 }
-
-#live2d{
-    position: fixed;
-    bottom: 0;
-    right:-5%
-}
